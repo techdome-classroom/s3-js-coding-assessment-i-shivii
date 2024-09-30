@@ -40,5 +40,5 @@ describe("test cases for problem 1 ", function () {
         assert.equal(false, result);
     });
 
-})
+});
 
